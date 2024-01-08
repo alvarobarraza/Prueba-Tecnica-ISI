@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PruebaTecnica_Isimo</string>
+    <string name="PruebaTec">PRUEBA TECNICA ISIMO</string>
+    <string name="_1">1.</string>
+    <string name="_2">2.</string>
+    <string name="_3">3.</string>
+    <string name="_4">4.</string>
+    <string name="_5">5.</string>
+    <string name="funcion_si_es_primo_o_no">Funcion Si es Primo o NO</string>
+    <string name="prox">prox</string>
+    <string name="actividad_que_muestre_un_toast">Actividad que muestre un Toast</string>
+    <string name="arquitectura_mvvm">Arquitectura MVVM</string>
+    <string name="desafio_extra">Desafio Extra</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="primer_punto">Primer Punto</string>
+    <string name="segundo_punto">Segundo Punto</string>
+    <string name="digite_un_texto">Digite un texto</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="textContentSecondPoint">Desarrolla una actividad en Android que tenga un campo de texto (EditText) y un botón (Button). Al hacer clic en el botón, el texto ingresado en el campo debe mostrarse en un Toast.</string>
+    <string name="corrutinas_realizar_solicitud">Corrutinas Realizar solicitud</string>
+    <string name="text_content_primer_punto">Escribe una función en Kotlin que determine si un número es primo o no</string>
+    <string name="digite_un_numero">digite un numero</string>
+    <string name="text_content_third_point">Implementa una arquitectura MVVM (Model-View-ViewModel) en Android utilizando Android Jetpack. Explica cómo manejar la comunicación entre componentes y cómo gestionar el ciclo de vida de las actividades y fragmentos.</string>
+    <string name="tercer_punto">Tercer Punto</string>
+    <string name="lista_de_usuarios">Lista de Usuarios</string>
+    <string name="text_content_fourth_point">Desarrolla una función en Kotlin que haga uso de coroutines para realizar varias solicitudes de red en paralelo y combinar los resultados. Asegúrate de manejar los errores adecuadamente.</string>
+</resources>
