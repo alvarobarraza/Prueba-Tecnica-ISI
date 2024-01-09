@@ -24,4 +24,6 @@
     <string name="tercer_punto">Tercer Punto</string>
     <string name="lista_de_usuarios">Lista de Usuarios</string>
     <string name="text_content_fourth_point">Desarrolla una función en Kotlin que haga uso de coroutines para realizar varias solicitudes de red en paralelo y combinar los resultados. Asegúrate de manejar los errores adecuadamente.</string>
+    <string name="quinto_punto">Quinto Punto</string>
+    <string name="text_content_quinto_punto">Crea un componente personalizado en iOS y Android que sea reutilizable y altamente personalizable. Puedes elegir el tipo de componente, como un gráfico, un control deslizante especializado, etc.</string>
 </resources>

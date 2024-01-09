@@ -34,7 +34,8 @@ class SecondPointFragment : Fragment() {
                 binding.etTextTo.requestFocus()
             }else{
                 hideKeyboard()
-                Toast.makeText(requireContext(), "Digitaste: $textToast",Toast.LENGTH_SHORT).show()
+                Toast.makeText(requireContext(), "Digitaste: $textToast",Toast.LENGTH_LONG).show()
+                binding.etTextTo.text = null
             }
         }
 

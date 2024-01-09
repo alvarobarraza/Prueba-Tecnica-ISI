@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.pruebatecnica_isimo.R
 import com.example.pruebatecnica_isimo.databinding.FragmentMenuBinding
+import com.example.pruebatecnica_isimo.ui.fifthPoint.FifthPointFragment
 import com.example.pruebatecnica_isimo.ui.firstPoint.FirstPointFragment
 import com.example.pruebatecnica_isimo.ui.fourthPoint.FourthPointFragment
 import com.example.pruebatecnica_isimo.ui.secondPoint.SecondPointFragment
@@ -41,6 +42,10 @@ class MenuFragment : Fragment() {
 
         this.binding.btn4.setOnClickListener{
             navigateToFragment(FourthPointFragment())
+        }
+
+        this.binding.btn5.setOnClickListener {
+            navigateToFragment(FifthPointFragment())
         }
 
     }

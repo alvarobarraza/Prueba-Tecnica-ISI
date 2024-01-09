@@ -50,6 +50,10 @@ class FourthPointFragment : Fragment() {
             recyclerView.adapter = adapter
         }
 
+        this.binding.btnBack.setOnClickListener{
+            requireActivity().onBackPressed()
+        }
+
         viewModel.fetchCharactersInParallel()
 
     }
